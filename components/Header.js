@@ -11,7 +11,11 @@ export class Header extends React.Component{
                     <img src={logo1} width="200" height="75" alt="Mountain"/>
                     <ul class="nav">
                         <li><a href="Home.js"> Home</a></li>
+                        <li><a href="Sobre_nos.js.js"> Informações</a></li>
                         <li><a href="Percurso.js"> Percurso</a></li>
+                        <li><a href="Noticias.js"> Notícias</a></li>
+                        <li><a href="Socios.js"> Sócios</a></li>
+                        <li><a href="Contactos.js"> Contactos</a></li>
                     </ul>
                 </div>
             </nav>

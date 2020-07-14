@@ -7,8 +7,8 @@ export class Percurso extends React.Component{
 
     render() {
         return (
-            <section class="section-a">
-                <div class="container">
+            <section className="section-a">
+                <div className="container">
                     <div>
                         Percurso
                     </div>
